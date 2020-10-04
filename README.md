@@ -1,2 +1,2 @@
 # redux-learn
-First redux project for learning
+First redux project with react for learning
