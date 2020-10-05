@@ -1,0 +1,4 @@
+export const INCREASE = "INCREASE"
+export const DECREASE = "DECREASE"
+export const INCREASE_BY_TWO = "INCREASE_BY_TWO"
+export const DECREASE_BY_TWO = "DECREASE_BY_TWO"
