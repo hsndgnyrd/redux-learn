@@ -1,5 +1,5 @@
 # React-redux basic counter project
-An basic example project for learning redux
+Basic example project for learning redux
 
 ## Usage
 **Clone the repo**
